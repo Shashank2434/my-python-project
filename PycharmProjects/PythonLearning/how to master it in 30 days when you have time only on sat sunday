@@ -1,0 +1,148 @@
+If you only have Saturdays and Sundays, you will not realistically "master" Python in 30 days. However, you can become job-ready at the beginner-to-intermediate level in about 8 weekends (16 study days) if you focus intensely and use AI effectively.
+
+Weekend Learning Plan (8–10 hours/day)
+Weekend 1: Python Fundamentals
+
+Saturday
+
+Install Python and VS Code
+Variables, strings, numbers
+Input/output
+Basic exercises
+
+Sunday
+
+Conditions (if, elif, else)
+Loops (for, while)
+20 practice problems
+
+AI prompts:
+
+"Give me 20 beginner Python problems."
+"Explain loops with visual examples."
+Weekend 2: Functions and Data Structures
+
+Saturday
+
+Functions
+Parameters and return values
+
+Sunday
+
+Lists
+Dictionaries
+Sets and tuples
+
+Project:
+
+Student grade manager
+
+AI prompt:
+
+"Review my solution and tell me what's wrong without giving the answer."
+
+Weekend 3: File Handling and OOP
+
+Saturday
+
+Reading/writing files
+Exception handling
+
+Sunday
+
+Classes and objects
+Inheritance
+
+Project:
+
+Library management system
+Weekend 4: Real Projects
+
+Build:
+
+Expense tracker
+Password generator
+To-do app
+
+Focus:
+
+Writing complete programs
+Organizing code into functions
+Weekend 5: APIs and Automation
+
+Learn:
+
+HTTP requests
+JSON
+Working with APIs
+
+Project:
+
+Weather application
+News fetcher
+
+Useful documentation:
+
+Requests Library Documentation
+Weekend 6: Databases and Git
+
+Learn:
+
+SQLite basics
+Git and GitHub
+
+Resources:
+
+GitHub Docs
+SQLite Documentation
+
+Project:
+
+Expense tracker with database
+Weekend 7: Build One Serious Project
+
+Choose one:
+
+Blog API using FastAPI
+Inventory management system
+Chat application
+Task manager
+
+Use AI as your senior developer.
+
+Weekend 8: Polish and Portfolio
+Refactor code
+Add README files
+Upload everything to GitHub
+Learn basic interview questions
+
+Portfolio should contain:
+
+Calculator
+To-do app
+Expense tracker
+API project
+Database project
+One major project
+What to do on weekdays (15 minutes/day)
+
+Even if you can't study, do one of these:
+
+Solve 1 coding problem
+Read 2–3 pages of Python docs
+Ask AI to explain one concept
+Review your weekend code
+
+Fifteen minutes a day adds up to almost 2 extra weekends of learning over a month.
+
+Best way to use AI
+
+Don't ask:
+
+"Write the project for me."
+
+Ask:
+
+"I'm learning Python. Act as a tutor. Give me one task at a time, check my code, and increase the difficulty when I succeed."
+
+That forces you to think and learn rather than copy.
